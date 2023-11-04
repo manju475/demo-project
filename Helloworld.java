@@ -5,6 +5,7 @@ class First{
 		int a=5;
 		int b=10;
 		System.out.println(int c=a+b);
+		System.out.peintln("code changed for new commit");
 	}
 }
 
